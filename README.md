@@ -1,4 +1,4 @@
-## ![Logo of the project](logo.png)
+## ![Logo of the project](images/logo.png)
 
 ## RealPhone Landing Page
 * The Landing-Page project from Easy Tutorials.

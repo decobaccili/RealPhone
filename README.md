@@ -20,7 +20,7 @@ Here are the technologies used in this project.
 
 
 ## Links
-  - Deploy on Netlify: https://Realphone.netlify.app/
+  - Deploy on Netlify: https://rrealphone.netlify.app/
   - Repository: https://github.com/decobaccili/RealPhone
 
 ## Versioning
